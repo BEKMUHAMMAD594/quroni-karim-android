@@ -53,7 +53,7 @@ class QuranApp extends StatelessWidget {
       builder: (context, _) {
         return MaterialApp(
           debugShowCheckedModeBanner: false,
-          title: 'Quroni Karim',
+          title: 'Quroni karim',
           themeMode: settings.themeMode,
           theme: ThemeData(
             useMaterial3: true,
@@ -2496,7 +2496,6 @@ class _SpeedPill extends StatelessWidget {
     required this.value,
     required this.onTap,
   });
-
   final String label;
   final String value;
   final VoidCallback onTap;
