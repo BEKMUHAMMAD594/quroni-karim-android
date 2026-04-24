@@ -28,6 +28,8 @@
 	<true/>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>This app uses the microphone for audio features.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>We use this identifier to show more relevant ads and improve ad performance.</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
